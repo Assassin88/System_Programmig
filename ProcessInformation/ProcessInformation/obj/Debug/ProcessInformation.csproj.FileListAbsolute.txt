@@ -1,0 +1,7 @@
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\bin\Debug\ProcessInformation.exe.config
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\bin\Debug\ProcessInformation.exe
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\bin\Debug\ProcessInformation.pdb
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\obj\Debug\ProcessInformation.csprojResolveAssemblyReference.cache
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\obj\Debug\ProcessInformation.csproj.CoreCompileInputs.cache
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\obj\Debug\ProcessInformation.exe
+c:\users\paul\source\repos\ProcessInformation\ProcessInformation\obj\Debug\ProcessInformation.pdb
