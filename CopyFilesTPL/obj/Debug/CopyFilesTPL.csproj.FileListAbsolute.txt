@@ -1,0 +1,10 @@
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.csprojResolveAssemblyReference.cache
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.MainForm.resources
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.Properties.Resources.resources
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.csproj.GenerateResource.Cache
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\bin\Debug\CopyFilesTPL.exe.config
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\bin\Debug\CopyFilesTPL.exe
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\bin\Debug\CopyFilesTPL.pdb
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.exe
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.pdb
+F:\System_Programming\HomeTask\ZD_4\SystemProgramming-HW_2\Homework2\CopyFilesTPL\obj\Debug\CopyFilesTPL.csproj.CoreCompileInputs.cache
